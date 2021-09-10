@@ -1,0 +1,18 @@
+.box{
+  background-image:url('https://images.unsplash.com/photo-1571613316887-6f8d5cbf7ef7?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8YmVlcnxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&w=1000&q=80');
+  background-position: center; /* Center the image */
+}
+  .list{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  padding: 5%;
+  
+}
+.h1{
+  background-color: cornsilk;
+  padding-left: 100px;
+  text-align: center;
+  font-size: 100px;
+}
